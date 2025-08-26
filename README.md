@@ -19,7 +19,7 @@
 ## Installation
 
 ```bash
-git clone https://github.com/IntegralPilot/ais-assault-harness.git
+git clone https://github.com/IntegralPilot/ais_assault_harness.git
 cd ais-assault-harness
 pip install -r requirements.txt
 pip install .
